@@ -1,15 +1,11 @@
 ---
 
-root_password: renato
-admin_user: renatoDB
-admin_password: renatoDB
-db_name: database_teste
-password_validation_policy: 0 
+root_password: renato #exemplo
+admin_user: renatoDB #exemplo
+admin_password: renatoDB  #exemplo
+db_name: database_teste  #exemplo
+password_validation_policy: 0  #exemplo
 
-#root_password: your_root_password
-#admin_user: your_admin_user
-#admin_password: your_admin_password
-#db_name: database_name
 #password_validation_policy: 1     
 # 0 - Low
 # 1 - Medium
