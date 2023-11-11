@@ -1,6 +1,6 @@
 ---
 - name: Install & Secure MariaDB on Ubuntu
-  hosts: ubuntu_servers
+  hosts: grupo_ou_server
   become: yes
 
   vars_files:
